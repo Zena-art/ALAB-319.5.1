@@ -1,5 +1,5 @@
 import express from 'express';
-import Grade from '../models/Grade.js';
+import Grade from '../models/Grades.js';
 import { Types } from 'mongoose';
 
 const router = express.Router();
